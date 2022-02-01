@@ -1,0 +1,1 @@
+const WERASEL = 5;
